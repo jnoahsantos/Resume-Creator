@@ -1,5 +1,5 @@
-# Resume Creator
+# PDF Resume Creator
 
 ## Assignment 10
 
-## Object Oriented Programming
+### Object Oriented Programming
