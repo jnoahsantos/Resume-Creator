@@ -185,10 +185,10 @@ namespace Resume
             // educTitleLabel
             // 
             this.educTitleLabel.AutoSize = true;
-            this.educTitleLabel.Font = new System.Drawing.Font("Bookman Old Style", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.educTitleLabel.Font = new System.Drawing.Font("Bookman Old Style", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.educTitleLabel.Location = new System.Drawing.Point(223, 335);
             this.educTitleLabel.Name = "educTitleLabel";
-            this.educTitleLabel.Size = new System.Drawing.Size(298, 22);
+            this.educTitleLabel.Size = new System.Drawing.Size(313, 24);
             this.educTitleLabel.TabIndex = 6;
             this.educTitleLabel.Text = "EDUCATIONAL ATTAINMENT";
             // 
@@ -262,7 +262,7 @@ namespace Resume
             this.yGHS.Location = new System.Drawing.Point(634, 392);
             this.yGHS.MaximumSize = new System.Drawing.Size(130, 23);
             this.yGHS.Name = "yGHS";
-            this.yGHS.PlaceholderText = "(ex: 2001)";
+            this.yGHS.PlaceholderText = " (ex: 2015)";
             this.yGHS.Size = new System.Drawing.Size(90, 26);
             this.yGHS.TabIndex = 9;
             this.yGHS.Click += new System.EventHandler(this.yGHS_Click);
@@ -285,7 +285,7 @@ namespace Resume
             this.yearClgGraduated.Location = new System.Drawing.Point(634, 456);
             this.yearClgGraduated.MaximumSize = new System.Drawing.Size(150, 23);
             this.yearClgGraduated.Name = "yearClgGraduated";
-            this.yearClgGraduated.PlaceholderText = "(ex: 2022)";
+            this.yearClgGraduated.PlaceholderText = " (ex: 2022)";
             this.yearClgGraduated.Size = new System.Drawing.Size(86, 26);
             this.yearClgGraduated.TabIndex = 12;
             this.yearClgGraduated.Click += new System.EventHandler(this.yearClgGraduated_Click);
@@ -366,10 +366,10 @@ namespace Resume
             // workingExperienceLabel
             // 
             this.workingExperienceLabel.AutoSize = true;
-            this.workingExperienceLabel.Font = new System.Drawing.Font("Bookman Old Style", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.workingExperienceLabel.Location = new System.Drawing.Point(244, 597);
+            this.workingExperienceLabel.Font = new System.Drawing.Font("Bookman Old Style", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.workingExperienceLabel.Location = new System.Drawing.Point(244, 595);
             this.workingExperienceLabel.Name = "workingExperienceLabel";
-            this.workingExperienceLabel.Size = new System.Drawing.Size(255, 22);
+            this.workingExperienceLabel.Size = new System.Drawing.Size(267, 24);
             this.workingExperienceLabel.TabIndex = 23;
             this.workingExperienceLabel.Text = "WORKING EXPERIENCE";
             // 
@@ -544,10 +544,10 @@ namespace Resume
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Bookman Old Style", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.Font = new System.Drawing.Font("Bookman Old Style", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(223, 46);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(276, 22);
+            this.label1.Size = new System.Drawing.Size(286, 24);
             this.label1.TabIndex = 49;
             this.label1.Text = "PERSONAL INFORMATION";
             // 
